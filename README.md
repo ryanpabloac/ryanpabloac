@@ -1,17 +1,14 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ryanpabloac/ryanpabloac/blob/main/Banner.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> 👨‍💻 Estudante nível Técnico em Desenvolvimento de Sistemas 👨‍💻 <br><br> Tenho 17 anos e sou estudante de Desenvolvimento de Sistemas, onde aprendo a stack com que irei trabalhar no futuro. Sempre foui fascinado por tecnologia e sempre quis trabalhar no ramo. Aos 12 anos descobri a linguagem Python que me apresentou a esse mundo da programção e me apaixonei por desenvolvimento,mas abandonei. Um tempo depois voltei a estudar programação mas com com a stack básica de Web Development a qual me dedico até o presente momento. </p>&nbsp;
+<p align="center"> 👨‍💻 Estudante nível Técnico em Desenvolvimento de Sistemas 👨‍💻 <br><br> Tenho 17 anos e sou estudante de Desenvolvimento de Sistemas, onde aprendo a stack com que irei trabalhar no futuro. Sempre foui fascinado por tecnologia e sempre quis trabalhar no ramo. Aos 12 anos descobri a linguagem Python que me apresentou a esse mundo da programção e me apaixonei por desenvolvimento. Um tempo depois voltei a estudar programação com a Stack básica da Programação Front-End. Atualmente me dedico a programação Back-End</p>&nbsp;
 
 
 ## Minhas Habilidades
 
 #### Estudando:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
