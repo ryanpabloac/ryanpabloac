@@ -1,14 +1,15 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ryanpabloac/ryanpabloac/blob/main/Banner.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> 👨‍💻 Estudante nível Técnico em Desenvolvimento de Sistemas 👨‍💻 <br><br> Tenho 17 anos e sou estudante de Desenvolvimento de Sistemas, onde aprendo a stack com que irei trabalhar no futuro. Sempre foui fascinado por tecnologia e sempre quis trabalhar no ramo. Aos 12 anos descobri a linguagem Python que me apresentou a esse mundo da programção e me apaixonei por desenvolvimento. Um tempo depois voltei a estudar programação com a Stack básica da Programação Front-End. Atualmente me dedico a programação Back-End</p>&nbsp;
+<p align="center"> 👨‍💻 Estudante nível Técnico em Desenvolvimento de Sistemas 👨‍💻 <br><br> Tenho 17 anos e sou estudante de Desenvolvimento de Sistemas, onde aprendo a stack com que irei trabalhar no futuro. Sempre foui fascinado por tecnologia e sempre quis trabalhar no ramo. Aos 12 anos descobri a linguagem Python que me apresentou a esse mundo da programção e me apaixonei por desenvolvimento. Em 2024, voltei a estudar mas dessa vez em um curso técnico onde estou aprendendo todas as etapas do processo de programação que é algo que vejo além do trabalho, como um hobby. p>&nbsp;
 
 
 ## Minhas Habilidades
 
 #### Estudando:
 
-![JavaScript](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=sql&logoColor=blue)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
