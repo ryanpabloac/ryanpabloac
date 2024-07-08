@@ -9,7 +9,7 @@
 #### Estudando:
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)&nbsp;
-![SQL](https://img.shields.io/badge/Mysql-F7DF1E?style=for-the-badge&logo=mysql&logoColor=blue)&nbsp;
+![SQL](https://img.shields.io/badge/Mysql-597dce?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
