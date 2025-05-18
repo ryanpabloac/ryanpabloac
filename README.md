@@ -7,11 +7,12 @@
 ## Minhas Habilidades
 ### Minha Stack:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-c2b311?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Mysql-597dce?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Estudando:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+![Django](https://img.shields.io/badge/django-0da81011?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -22,7 +23,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23333?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ## Projetos
-- [Udeverse](https://github.com/ryanpabloac/Udeverse)&nbsp;
+- [BoopChat](https://github.com/jbjet/boopchat)&nbsp;
   
 ## Contacts:
 <div> 
