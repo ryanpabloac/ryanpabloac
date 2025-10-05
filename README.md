@@ -12,7 +12,6 @@
 
 #### Estudando:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/django-0da81011?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
