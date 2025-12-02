@@ -1,28 +1,28 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ryanpabloac/ryanpabloac/blob/main/Banner.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> 💻 Ryan Pablo | Estudante de Ciência da Computação | Futuro Desenvolvedor Full-Stack<br><br> Sou estudante universitário de Ciência da Computação e técnico em Desenvolvimento de Sistemas, buscando construir uma carreira sólida na área de Tecnologia da Informação. Continuamente aprimorando minhas hard e soft skills para me tornar um profissional versátil e capacitado. Sempre fui fascinado por tecnologia e aos 12 anos descobri a linguagem Python que me apresentou a esse mundo da programação e me inspirou a explorar o universo da programação, me impulsionando a crescer como desenvolvedor e a contribuir com soluções criativas e funcionais. <p>&nbsp;
+<p align="center"> 💻 Ryan Costa | Desenvolvedor Back-End | Java | Spring Boot | SQL<br><br>
+  Estudante de Ciência da Computação com interesse em desenvolvimento back-end sempre disposto a aprender e desenvolver soluções cada vez mais escaláveis e estruturada.
+  Atualmente, estudando a linguagem Java aliada ao Spring Boot e em busca da primeira oportunidade na área de tecnologia. Sempre fui fascinado por tecnologia e aos 12 anos conheci a minha primeira linguagem de programação que me apresentou a esse mundo  e me inspirou a explorá-lo, me impulsionando a crescer como desenvolvedor e a contribuir com soluções criativas e funcionais.<p>&nbsp;
 
 
 ## Minhas Habilidades
 ### Minha Stack:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-c2b311?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/Mysql-597dce?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Estudando:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Ferramentas de Trabalho:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-%23333?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-## Projetos
+## Projetos Destaque
 - [BoopChat](https://github.com/jbjet/boopchat)&nbsp;
+- [API Produtos](https://github.com/ryanpabloac/desafio-ascii)&nbsp;
   
 ## Contacts:
 <div> 
