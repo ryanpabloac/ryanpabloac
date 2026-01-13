@@ -21,7 +21,7 @@
 
 
 ## Projetos Destaque
-- [BoopChat](https://github.com/jbjet/boopchat)&nbsp;
+- [BoopChat](https://github.com/ryanpabloac/boopchat)&nbsp;
 - [API Produtos](https://github.com/ryanpabloac/desafio-ascii)&nbsp;
   
 ## Contacts:
