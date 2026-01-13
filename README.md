@@ -23,6 +23,7 @@
 ## Projetos Destaque
 - [BoopChat](https://github.com/ryanpabloac/boopchat)&nbsp;
 - [API Produtos](https://github.com/ryanpabloac/desafio-ascii)&nbsp;
+- [Integração GenAI](https://github.com/ryanpabloac/integracao-genai)&nbsp;
   
 ## Contacts:
 <div> 
